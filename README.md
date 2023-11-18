@@ -20,8 +20,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-PART 1- Make a list of your favorite 3-5 applications and identify 2-3 features 
-(1) Sephora Shopping App 
+PART 1- Make a list of your favorite 3-5 applications and identify 2-3 features  
+(1) Sephora Shopping App   
 Sephora, a renowned beauty and cosmetics retailer, has a mobile shopping app that provides a comprehensive and engaging shopping experience for beauty enthusiasts. This app embodies the essence of Sephora's brand, offering a wide range of beauty products along with several unique features that cater to the specific needs of its users.
 
 Key Features:
